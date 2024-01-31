@@ -3,7 +3,7 @@
 Este é um sistema simples de gravação e reconhecimento de fala em Python, desenvolvido com o uso das bibliotecas ipywidgets, pyaudio e Vosk. O sistema permite gravar áudio do microfone, transcrever a fala em texto e exibir o texto na saída.
 
 
-## Observações
+### Observações
 
 1. Antes de iniciar a gravação, você precisa identificar o número de índice do dispositivo de microfone que deseja usar. Para isso execute a célula de código abaixo para listar os dispositivos de áudio da sua máquina:
 
